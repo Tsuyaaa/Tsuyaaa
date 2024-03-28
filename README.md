@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working as mobile developer focused native android and multiplatform development. At the same time science and technology and computer science bachelor student.
+Profile low maintained because my current routine.
 <!--
 **Tsuyaaa/Tsuyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
