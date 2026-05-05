@@ -1,15 +1,15 @@
 
 ### Hi there, I'm Brian! 👋
 
-Currently working as mobile developer focused native android and multiplatform development as React Native, at the same time undergraduate student in STEM at UFABC.
+I am an undergraduate STEM student at UFABC, working on an internship while focusing on my studies.
 <br>
-My interests are low-level programming, infrastructure, data structures, and algorithms, that is, understanding how programs and networks work.
+My interests are low-level programming, data structures, algorithms and security that is, understanding how programs and networks work.
 
 <div align="center">
 <pre>
 <br>
     💼 BSC @ UFABC • Mobile Developer
-    📖 Data Structures • Algorithms
+    📖 Cybersecurity • Encryption
     🎮 Code • Games • Audiovisual • Music
     
   <br>
